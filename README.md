@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zamokuhle Maziya</h1>
-<h3 align="center">Cloud Enthusiast | Azure Explorer | DevOps Learner</h3>
+<h3 align="center">Cloud Computing | Azure Explorer | DevOps Learner</h3>
 
 ---
 
