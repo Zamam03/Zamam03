@@ -18,10 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/LaTeX_logo.svg" alt="LaTeX" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arm/arm-original.svg" alt="ARM Templates" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
 </p>
 
@@ -53,7 +51,7 @@
 
 ### 🏆 Achievements
 
-- 🎓 Built & deployed full-stack containerized applications
+- 🎓 Intergrated & deployed full-stack containerized applications
 - 📦 Automated cloud infrastructure using Terraform
 - ☁️ Completed multiple Azure Labs & sandbox deployments
 - 📘 Wrote detailed technical documentation using LaTeX
