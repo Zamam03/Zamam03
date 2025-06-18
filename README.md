@@ -31,24 +31,24 @@
 
 ### What I've Been Working On:
 
-- **Azure Resource Management** using:
+- 🔷**Azure Resource Management** using:
   - Azure Portal Interface
   - Azure CLI
   - Terraform
   - ARM Templates
--  **Compute & Networking**:
+- 🔷**Compute & Networking**:
   - Virtual Machines, Virtual Networking, NSGs
--  **Databases**:
+- 🔷**Databases**:
   - Azure SQL, PostgreSQL, MySQL (cloud-native and containerized)
--  **Containers**:
+- 🔷**Containers**:
   - Dockerized apps, built custom images
   - Deployed with Kubernetes
--  **DevOps & CI/CD**:
+- 🔷**DevOps & CI/CD**:
   - Git & Azure DevOps
   - Pipelines, Repos, Boards
--  **Documentation**:
+- 🔷**Documentation**:
   - LaTeX for structured technical documentation
--  **Programming**:
+- 🔷**Programming**:
   - Python, Java, C++, C#, Mathematica
 
 ---
