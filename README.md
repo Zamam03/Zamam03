@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Zamokuhle Maziya</h1>
+<h1 align="center">Hi , I'm Zamokuhle Maziya</h1>
 <h3 align="center">Cloud Computing | Azure Explorer | DevOps Learner</h3>
 
 ---
 
-🌥️ **Currently focused on Microsoft Cloud (Azure)**  
-🚀 Passionate about building, automating and deploying scalable solutions using modern technologies.
+ **Currently focused on Microsoft Cloud (Azure)**  
+ Passionate about building, automating and deploying scalable solutions using modern technologies.
 
 ---
 
@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600"/>
 </p>
 
-### 🧰 Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
@@ -29,40 +29,40 @@
 
 ---
 
-### 📘 What I've Been Working On:
+### What I've Been Working On:
 
-- 🌐 **Azure Resource Management** using:
+- **Azure Resource Management** using:
   - Azure Portal Interface
   - Azure CLI
   - Terraform
   - ARM Templates
-- 🖥️ **Compute & Networking**:
+-  **Compute & Networking**:
   - Virtual Machines, Virtual Networking, NSGs
-- 🛢️ **Databases**:
+-  **Databases**:
   - Azure SQL, PostgreSQL, MySQL (cloud-native and containerized)
-- 🐳 **Containers**:
+-  **Containers**:
   - Dockerized apps, built custom images
   - Deployed with Kubernetes
-- 🧪 **DevOps & CI/CD**:
+-  **DevOps & CI/CD**:
   - Git & Azure DevOps
   - Pipelines, Repos, Boards
-- 📜 **Documentation**:
+-  **Documentation**:
   - LaTeX for structured technical documentation
-- 💻 **Programming**:
+-  **Programming**:
   - Python, Java, C++, C#, Mathematica
 
 ---
 
-### 🏆 Achievements
+###  Achievements
 
-- 🎓 Intergrated & deployed full-stack containerized applications
-- 📦 Automated cloud infrastructure using Terraform
-- ☁️ Completed multiple Azure Labs & sandbox deployments
-- 📘 Wrote detailed technical documentation using LaTeX
+-  Intergrated & deployed full-stack containerized applications
+-  Automated cloud infrastructure using Terraform
+-  Completed multiple Azure Labs & sandbox deployments
+-  Wrote detailed technical documentation using LaTeX
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zamam03&show_icons=true&theme=azure&hide_title=true" alt="Zamokuhle's GitHub stats" height="180"/>
@@ -71,10 +71,10 @@
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/) 
-- ✉️ zamokuhlemaziya944@gmail.com
+-  [LinkedIn](https://www.linkedin.com/) 
+-  zamokuhlemaziya944@gmail.com
 
 ---
 
