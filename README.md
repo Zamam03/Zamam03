@@ -55,9 +55,9 @@
 
 ###  Achievements
 
--  Intergrated & deployed full-stack containerized applications
+-  Intergrated & deployed containerized applications
 -  Automated cloud infrastructure using Terraform
--  Completed multiple Azure Labs & sandbox deployments
+-  Completed multiple Azure Labs
 -  Wrote detailed technical documentation using LaTeX
 
 ---
@@ -72,8 +72,7 @@
 ---
 
 ### Let's Connect
-
--  [LinkedIn](https://www.linkedin.com/) 
+ 
 -  zamokuhlemaziya944@gmail.com
 
 ---
