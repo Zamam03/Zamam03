@@ -65,12 +65,6 @@
 ### GitHub Stats
 
 <p align="center">
-  <img 
-  src="https://github-readme-stats.vercel.app/api?username=Zamam03&show_icons=true&theme=azure" 
-  alt="Zamokuhle's GitHub stats" 
-  style="height: 180px; width: auto;"
-  onerror="this.style.display='none'"
-/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zamam03&theme=azure" alt="Zamokuhle's GitHub streak" height="180"/>
 </p>
 
