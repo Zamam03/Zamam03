@@ -62,9 +62,7 @@
 
 ---
 
-<p align="center">
-  <strong>GitHub Stats</strong>
-</p>
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zamam03&show_icons=true&theme=azure&hide_title=true" alt="Zamokuhle's GitHub stats" height="180"/>
